@@ -10,6 +10,9 @@ label{
     height: 75px;
     width: 100%;
     margin-left: 0px !important;
+    border-color: black 5px;
+    border-width: 2px;
+    border-style: solid;
 }
 
 .dataTables_wrapper .dataTables_filter {
