@@ -1,6 +1,7 @@
 $(document).ready(function() {
     $('#table').DataTable({
         "paging":   false,
-        "info":     false
+        "info":     false,
+        "dom":"ftip"
     });
 } );
